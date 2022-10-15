@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Endless
+Comment=Endless theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=yeyushengfan258
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=com.github.yeyushengfan258.Endless
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Endless-kde
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1921141,kns://plasma-themes.knsrc/api.kde-look.org/1921149,kns://aurorae.knsrc/api.kde-look.org/1921138,kns://icons.knsrc/api.kde-look.org/1546069,kns://wallpaper.knsrc/api.kde-look.org/1921134,kns://sddmtheme.knsrc/api.kde-look.org/1921146,kns://xcursor.knsrc/api.kde-look.org/1628952
+X-Plasma-MainScript=defaults
